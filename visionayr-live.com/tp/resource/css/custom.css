@@ -1,0 +1,155 @@
+.questionDiv .modal-header,
+		.freeTxtPopupDiv .modal-header {
+			background: #ff4d00;
+			height: 9px;
+		}
+
+		#freeCustomPopup .btn-new {
+			background: #ff4d00 !important;
+			color: #fff;
+		}
+
+		#freeCustomPopup {
+			max-width: 315px;
+			text-align: center
+		}
+
+		#freeCustomPopup .modal-header {
+			padding: 10px 15px
+		}
+
+		#freeCustomPopup .modal-dialog {
+			width: 315px;
+			margin: 0px;
+		}
+
+		#freeCustomPopup .modal-header .close {
+			margin-top: -10px;
+			color: #fff;
+			font-size: 16px;
+			padding-right: 0
+		}
+
+		#freeCustomPopup h2 {
+			text-transform: capitalize;
+			font-size: 24px;
+			font-weight: bold;
+		}
+
+		#freeCustomPopup h2,
+		#freeCustomPopup .btn-new {
+			background: #A5C12A;
+			color: #fff;
+		}
+
+		#freeCustomPopup .btn-new {
+			border-radius: 0;
+			-moz-border-radius: 0;
+			-webkit-border-radius: 0;
+			display: inline-block;
+			text-transform: uppercase;
+			padding: 10px 20px;
+		}
+
+		#freeCustomPopup .btn-new span {
+			display: block;
+			font-size: 11px;
+		}
+
+		#freeCustomPopup p {
+			font-size: 16px;
+		}
+
+		#freeCustomPopup p span {
+			display: block
+		}
+		.left_col {
+			background: #FFFFFF;
+		}
+
+		.left_links li.active span,
+		.left_links li span:hover {
+			color: #FF4D00
+		}
+
+		.popupQuestDiv-head,
+		.btn-cta {
+			background: #FF4D00;
+		}
+
+		.loaderAll {
+			border: 4px solid#FF4D00;
+		}
+
+		.popupQuestDiv,
+		.freeTxtPopupDiv {
+			background: #404040;
+		}
+
+		.left_col .asset_nav,
+		.btn-cta,
+		.download_ctaTop button,
+		.left_links li span,
+		.nav-subhead,
+		.subhead-lbl a,
+		.socialiconsTop a,
+		.popupQuestDiv-head span.close,
+		.btn-cta:hover,
+		.popupQuestDiv-head {
+			color: #404040;
+		}
+
+		.mobileNav-div::-webkit-scrollbar-thumb:hover,
+		.mobileNav-div::-webkit-scrollbar-thumb {
+			background: #FF4D00;
+		}
+
+		.left_links li.active img {
+			border: 2px solid #FF4D00;
+		}
+
+		@media only screen and (max-width: 1023px) {
+
+			.left_links li.active span,
+			.left_links li span:hover {
+				color: #FF4D00 !important
+			}
+			.subhead-lbl {
+				display: none !important
+			}
+	
+			.nav-subhead {
+				color: #ff4d00;
+			}
+	
+			.popupQuestDiv,
+			.freeTxtPopupDiv {
+				background: #fff;
+			}
+	
+			.btn-cta {
+				color: #fff;
+			}
+	
+			.btn-cta:hover {
+				color: #fff;
+			}
+	
+			@media only screen and (max-width: 1023px) {
+	
+				.left_links li span,
+				.nav-subhead {
+					color: #fff
+				}
+	
+				.ls_mob {
+					color: #404040
+				}
+			}
+	
+			@media only screen and (min-width: 1023px) and (max-width: 1300px) {
+				.logoImg img {
+					height: auto
+				}
+			}
+			
